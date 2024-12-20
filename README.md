@@ -58,8 +58,8 @@
 
 ## 📈 GitHub Stats
 
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisry&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bisry&layout=compact&theme=radical)
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadbisry-1626&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbisry-1626&layout=compact&theme=radical)
 
 ---
 
