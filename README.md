@@ -13,7 +13,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -46,9 +45,6 @@
 **Languages I Use the Most:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbisry-1626&layout=compact&theme=radical)
 
-**Profile Views:**  
-![Profile Views](https://komarev.com/ghpvc/?username=ahmadbisry-1626&color=blueviolet&style=flat-square)
-
 ---
 
 ## 📬 Get in Touch
@@ -58,5 +54,8 @@
 - **Instagram:** [@ahmadbirsy](https://www.instagram.com/ahmadbirsy/)  
 
 ---
+
+**Profile Views:**  
+![Profile Views](https://komarev.com/ghpvc/?username=ahmadbisry-1626&color=blueviolet&style=flat-square)
 
 *Thanks for stopping by! Let's create something amazing together.* 🎨🚀
