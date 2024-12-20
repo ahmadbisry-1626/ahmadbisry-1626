@@ -1,10 +1,16 @@
-# 👋 Hello, I'm Ahmad Bisry
+# 🌟 Welcome! I'm Ahmad Bisry
 
-**Frontend Web Developer** | Transforming ideas into polished, responsive websites with clean designs and smooth performance.
+Hi there! I'm a **Frontend Web Developer** passionate about crafting beautiful, responsive, and functional web applications.  
+🚀 Always learning and pushing my skills to the next level with modern web technologies.
 
-- 🎓 **Education:** Bachelor's degree in Informatics from Siliwangi University.
-- 🌱 **Currently Learning:** Advancing my skills in frontend development and exploring new technologies.
-- 💬 **Ask me about:** Frontend development, web design, and the technologies I work with.
+---
+
+## 🚀 About Me
+
+- 🎓 **Informatics Graduate** | Siliwangi University  
+- 💻 **Currently Building:** Frontend projects with a focus on **Next.js** and **TypeScript**.  
+- 🌱 **Learning:** Optimizing performance and accessibility in web development.  
+- 🎯 **Fun Fact:** I love combining design and development to create seamless user experiences.  
 
 ---
 
@@ -13,54 +19,52 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Supporting Technologies:**
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Projects
 
-1. **[Widi](https://www.widi.web.id/)**  
-   *Your licensing partner*
+### 🔗 [Widi](https://www.widi.web.id/)  
+> A platform for seamless licensing partnerships
 
-2. **[New Kanasave](https://kanasave.vercel.app/)**  
-   *Download your favorite content*
+### 🔗 [Kanasave](https://kanasave.vercel.app/)  
+> Download your favorite content with ease
 
-3. **[New DevLens](https://thedevlens.vercel.app/)**  
-   *Practice real-world coding*
+### 🔗 [DevLens](https://thedevlens.vercel.app/)  
+> Level up with real-world coding exercises
 
-4. **[New Kanacat](https://kanacat.vercel.app/)**  
-   *The world of cats*
-
-5. **[Kanadrive](https://kanabagi-drive.vercel.app/)**  
-   *Elegant Korean portraits*
+### 🔗 [Kanacat](https://kanacat.vercel.app/)  
+> Interactive platform to discover cat breeds 
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Analytics
 
-- **Email:** [ahmadbisry1626@gmail.com](mailto:ahmadbisry1626@gmail.com)
-- **LinkedIn:** [Ahmad Bisry](https://www.linkedin.com/in/ahmadbisry/)
-- **GitHub:** [ahmadbisry-1626](https://github.com/ahmadbisry-1626)
-- **Instagram:** [@ahmadbirsy](https://www.instagram.com/ahmadbirsy/)
+**My GitHub Stats:**  
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadbisry-1626&show_icons=true&theme=radical)
 
----
-
-## 📈 GitHub Stats
-
-![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadbisry-1626&show_icons=true&theme=radical)
+**Languages I Use the Most:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbisry-1626&layout=compact&theme=radical)
 
+**Streaks:**  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadbisry-1626&theme=radical)](https://git.io/streak-stats)
+
+**Profile Views:**  
+![Profile Views](https://komarev.com/ghpvc/?username=ahmadbisry-1626&color=blueviolet&style=flat-square)
+
 ---
 
-*Let's connect and create something amazing together!*
+## 📬 Get in Touch
+
+- **Email:** [ahmadbisry1626@gmail.com](mailto:ahmadbisry1626@gmail.com)  
+- **LinkedIn:** [Ahmad Bisry](https://linkedin.com/in/ahmadbisry/)  
+- **Instagram:** [@ahmadbirsy](https://www.instagram.com/ahmadbirsy/)  
+
+---
+
+*Thanks for stopping by! Let's create something amazing together.* 🎨🚀
