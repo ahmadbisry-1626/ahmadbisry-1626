@@ -25,6 +25,8 @@ Hi there! I'm a **Frontend Web Developer** passionate about crafting beautiful, 
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
+…and many more tools I use to bring ideas to life!
+
 ---
 
 ## 🌟 Projects
@@ -50,9 +52,6 @@ Hi there! I'm a **Frontend Web Developer** passionate about crafting beautiful, 
 
 **Languages I Use the Most:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbisry-1626&layout=compact&theme=radical)
-
-**Streaks:**  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmadbisry-1626&theme=radical)](https://git.io/streak-stats)
 
 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmadbisry-1626&color=blueviolet&style=flat-square)
