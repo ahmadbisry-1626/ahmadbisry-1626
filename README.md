@@ -14,8 +14,10 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 …and many more tools I use to bring ideas to life!
 
@@ -23,35 +25,29 @@
 
 ## 🌟 Projects
 
-### 🔗 [Widi](https://www.widi.web.id/)  
-> A platform for seamless licensing partnerships
+#### 🔗 [Widi](https://www.widi.web.id/) | A platform for seamless licensing partnerships
 
-### 🔗 [Kanasave](https://kanasave.vercel.app/)  
-> Download your favorite content with ease
+#### 🔗 [Kanasave](https://kanasave.vercel.app/) | Download your favorite content with ease
 
-### 🔗 [DevLens](https://thedevlens.vercel.app/)  
-> Level up with real-world coding exercises
+#### 🔗 [DevLens](https://thedevlens.vercel.app/) | Level up with real-world coding exercises
 
-### 🔗 [Kanacat](https://kanacat.vercel.app/)  
-> Interactive platform to discover cat breeds 
+#### 🔗 [Kanacat](https://kanacat.vercel.app/) | Interactive platform to discover cat breeds 
 
 ---
 
 ## 📊 GitHub Analytics
 
-**My GitHub Stats:**  
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadbisry-1626&show_icons=true&theme=radical)
-
-**Languages I Use the Most:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbisry-1626&layout=compact&theme=radical)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadbisry-1626&show_icons=true&theme=radical&hide_border=true)&nbsp;&nbsp;&nbsp; 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbisry-1626&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 📬 Get in Touch
+## 📬 Connect with Me
 
-- **Email:** [ahmadbisry1626@gmail.com](mailto:ahmadbisry1626@gmail.com)  
-- **LinkedIn:** [Ahmad Bisry](https://linkedin.com/in/ahmadbisry/)  
-- **Instagram:** [@ahmadbirsy](https://www.instagram.com/ahmadbirsy/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadbisry.vercel.app/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbisry1626@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadbisry/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmadbirsy/)
 
 ---
 
