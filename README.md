@@ -1,10 +1,3 @@
-# 🌟 Welcome! I'm Ahmad Bisry
-
-Hi there! I'm a **Frontend Web Developer** passionate about crafting beautiful, responsive, and functional web applications.  
-🚀 Always learning and pushing my skills to the next level with modern web technologies.
-
----
-
 ## 🚀 About Me
 
 - 🎓 **Informatics Graduate** | Siliwangi University  
