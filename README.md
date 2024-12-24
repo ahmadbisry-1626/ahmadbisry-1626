@@ -1,13 +1,13 @@
-## 🚀 About Me
+## About Me
 
-- 🎓 **Informatics Graduate** | Siliwangi University  
-- 💻 **Currently Building:** Frontend projects with a focus on **Next.js** and **TypeScript**.  
-- 🌱 **Learning:** Optimizing performance and accessibility in web development.  
-- 🎯 **Fun Fact:** I love combining design and development to create seamless user experiences.  
+- **Informatics Graduate** | Siliwangi University  
+- **Currently Building:** Frontend projects with a focus on **Next.js** and **TypeScript**.  
+- **Learning:** Optimizing performance and accessibility in web development.  
+- **Fun Fact:** I love combining design and development to create seamless user experiences.  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠Tech Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 Projects
+## Projects
 
 #### 🔗 [Widi](https://www.widi.web.id/) | A platform for seamless licensing partnerships
 
@@ -35,14 +35,14 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 ![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadbisry-1626&show_icons=true&theme=radical&hide_border=true)&nbsp;&nbsp;&nbsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbisry-1626&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmadbisry.vercel.app/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadbisry1626@gmail.com) 
