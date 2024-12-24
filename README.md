@@ -54,4 +54,4 @@
 **Profile Views:**  
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmadbisry-1626&color=blueviolet&style=flat-square)
 
-*Thanks for stopping by! Let's create something amazing together.* 🎨🚀
+*Thanks for stopping by! Let's create something amazing together.* 
