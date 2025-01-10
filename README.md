@@ -25,6 +25,8 @@
 
 ## Projects
 
+#### 🔗 [Pathnime](https://www.pathnime.web.id/) | Download and streaming anime
+
 #### 🔗 [Widi](https://www.widi.web.id/) | A platform for seamless licensing partnerships
 
 #### 🔗 [Kanasave](https://kanasave.vercel.app/) | Download your favorite content with ease
